@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("master-ver-3");
 
         System.out.println("hotfix-ver-1");
+        System.out.println("hotfix-ver-2");
     }
 }
